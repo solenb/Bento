@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Cloud',
+      icon: 'cloud',
+      link: 'https://cloud.solenb.fr',
     },
     {
       id: '4',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Gitlab',
+      icon: 'gitlab',
+      link: 'https://gitlab.polytech.umontpellier.fr/users/log_in',
     },
   ],
 
@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
+        name: 'Polytech',
+        link: 'https://www.polytech.umontpellier.fr/',
+      },
+      {
+        name: 'Umontpellier',
+        link: 'https://ent.umontpellier.fr',
+      },
+      {
+        name: 'Centre_service',
+        link: 'https://www.polytech.umontpellier.fr/centre_services/index.php',
+      },
+      {
         name: 'Linkedin',
         link: 'https://linkedin.com/',
-      },
-      {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
       },
     ],
   },
