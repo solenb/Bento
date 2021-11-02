@@ -72,7 +72,7 @@ const CONFIG = {
       id: '6',
       name: 'Gitlab',
       icon: 'gitlab',
-      link: 'https://gitlab.polytech.umontpellier.fr/users/log_in',
+      link: 'https://gitlab.polytech.umontpellier.fr/users/sign_in',
     },
   ],
 
