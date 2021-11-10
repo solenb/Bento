@@ -118,10 +118,6 @@ const CONFIG = {
         link: 'https://www.polytech.umontpellier.fr/centre_services/index.php',
       },
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
-      },
-      {
         name: 'PVE',
         link: 'https://162.38.111.18',
       },
