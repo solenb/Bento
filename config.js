@@ -121,6 +121,10 @@ const CONFIG = {
         name: 'Linkedin',
         link: 'https://linkedin.com/',
       },
+      {
+        name: 'PVE',
+        link: 'https://162.38.111.18',
+      },
     ],
   },
 };
